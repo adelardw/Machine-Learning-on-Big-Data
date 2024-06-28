@@ -1,0 +1,6 @@
+names:
+  0: miss
+
+path: /kaggle/input/plzwork/finaly
+train: images/train
+val: images/test
